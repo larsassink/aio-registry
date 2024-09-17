@@ -4,7 +4,7 @@ const nextConfig = {
   env: {
     name: 'AIO',
     description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
+    icon: 'https://cdn.aio.sh/assie/assie-icon.png',
     listUrl: 'https://larsassink.github.io/aio-registry/',
     contactUrl: 'https://aio.sh',
   },
